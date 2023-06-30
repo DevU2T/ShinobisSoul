@@ -10,6 +10,7 @@ It is a game where you activate "Ninjutsu" by command input and defeat monsters.
 
 I couldn't upload it to GitHub, so I published it on GoogleDrive.
 GitHubにアップロードできなかったのでGoogleDriveにて公開しました。
+
 https://drive.google.com/file/d/1_YP2OW1GN0bRUWcaQVHLZaDrXv6tIPZw/view?usp=drive_link
 
 
